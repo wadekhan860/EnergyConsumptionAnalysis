@@ -398,9 +398,7 @@ order by date_time
 
 
 
-Select top 100 rtu_id,mp_id,describe,Organization,Province,City,Category,Department,[Group],[Name] from [dbo].[Task2_raw]
-where [date] like'202111%' 
-,
+
 
 
 
